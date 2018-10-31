@@ -1,2 +1,3 @@
 # notebook
-The notebook as a beginner on AI. ML / DL / NLP.
+The notebook as a beginner on AI. 
+python/ ML/ DL/ NLP.
